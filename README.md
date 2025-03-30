@@ -2,7 +2,6 @@
 
 Apex Predators est une application iOS qui recense tous les dinosaures apparus dans la saga **Jurassic Park**. Plongez dans l’univers des films et découvrez des informations sur ces créatures fascinantes.
 
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-03-30 at 00 25 49](https://github.com/user-attachments/assets/5ab53abd-9b9e-4202-87a2-bc4100b370fb)
 
 ## 🚀 Fonctionnalités
 - 📌 **Liste complète des dinosaures** présents dans les films.
@@ -16,7 +15,7 @@ Apex Predators est une application iOS qui recense tous les dinosaures apparus d
 - **JSON** (stockage et gestion des données)
 
 ## 📸 Aperçu
-*(Ajoute ici des captures d'écran de ton application pour illustrer son fonctionnement.)*
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-03-30 at 00 25 49](https://github.com/user-attachments/assets/5ab53abd-9b9e-4202-87a2-bc4100b370fb)
 
 ## 📦 Installation
 1. Clonez le projet :
